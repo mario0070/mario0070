@@ -1,11 +1,11 @@
 <html>  
-  <body align="center" id="user-content-hello--im-disu" dir="auto">
+  <body >
     <h1 align="center" id="user-content-hello--im-disu" dir="auto">Hi there 👋!, I'm Jamiu!</h1>
 
-  <h5 style="text-align:center">I am a software engineer currently building with Python, Javscript and PHP </h5>
-  <p style="text-align:center">Contact Me</p>
+  <h5 align="center" id="user-content-hello--im-disu" dir="auto">I am a software engineer currently building with Python, Javscript and PHP </h5>
+  <p align="center" id="user-content-hello--im-disu" dir="auto">Contact Me</p>
   <hr/>
-  <p style="text-align:center"> 😎 you can reach me on:</p>
+  <p align="center" id="user-content-hello--im-disu" dir="auto"> 😎 you can reach me on:</p>
   <hr/>
   <p style="text-align:center">
     <a href="https://www.linkedin.com//" rel="nofollow"><img align="center"   src="https://camo.githubusercontent.com/704e5391e523f95dacab15520ecf2e77066e38c191058ab7e91134f3bedd2cb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333144413146322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Disu" height="30" data-canonical-src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
