@@ -3,7 +3,7 @@
     <h1 align="center"  dir="auto">Hi there 👋!, I'm Jamiu!</h1>
 
   <h3 align="center"  dir="auto">I am a software engineer currently building with PHP, Javscript and Python </h3>
-  <h2 align="center"  dir="auto">A passionate Software developer from Nigeria</h2>
+  <h4 align="center"  dir="auto">A passionate Software developer from Nigeria</h4>
 
   <div dir="auto">
   <samp>
