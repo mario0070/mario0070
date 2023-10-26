@@ -1,6 +1,17 @@
 <html>
+  <head>
+    <title>Jamiu</title>
+  </head>
+  
+  <style>
+    body{
+      text-align:center;
+      }
+  </style>
+  
   <body>
-    ### Hi there 👋Hello! , I'm Jamiu
+    ### Hi there 👋!, I'm Jamiu
+    <h1 align="center" id="user-content-hello--im-disu" dir="auto"><a class="heading-link" href="#hello--im-disu">Hello!</h1>
 
   <h5 style="text-align:center">I am a software engineer currently building with Python, Javscript and PHP </h5>
   <p style="text-align:center">Contact Me</p>
